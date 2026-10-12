@@ -1,0 +1,2 @@
+# chessmemo
+Allenamento scacchistico
